@@ -6,10 +6,7 @@
  - Create new tasks with title and description - Use TypeScript for type-safe interfaces - Reuse the 'TaskCard' and 'CreateTaskForm' components.
  - Clean folder structure for scaling - Simple to maintain and expand
 
-  Preview
-
- (You can include a screenshot here later if you want.)
-
+  
   Technology stack
 
  - React + Vite (aka CRA)
